@@ -1,6 +1,6 @@
 keys = {
-    [asdasd123124565464] = true, -- Random key!
-    [a8234728949idfnsjfbh347843unfj] = true,
-    [QLSDAMDKSMDKlmksml348953598] = true
+    ["a8234728949idfnsjfbh347843unfj"] = true, -- Random key!
+    [""] = true,
+    [""] = true
     }
 return keys
