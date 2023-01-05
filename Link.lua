@@ -1,1 +1,0 @@
-local linktarget = "ALPAfkasjmfuiftj"
